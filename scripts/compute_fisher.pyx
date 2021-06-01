@@ -1,3 +1,8 @@
+"""
+@author: Alba Kalaja
+
+"""
+
 import numpy as np
 cimport numpy as cnp
 from libc.math cimport exp, log, sqrt
